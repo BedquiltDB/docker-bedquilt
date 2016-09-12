@@ -2,6 +2,15 @@
 
 A Docker image for [BedquiltDB](https://bedquiltdb.github.io), based on the official [postgres image](https://hub.docker.com/_/postgres/).
 
+
+## From Docker Hub
+
+This image is available from the [Docker Hub](https://hub.docker.io).
+
+```bash
+docker pull bedquiltdb/bedquiltdb:latest
+```
+
 ## Build
 
 ```bash
