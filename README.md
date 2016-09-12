@@ -2,7 +2,8 @@
 
 A Docker image for [BedquiltDB](https://bedquiltdb.github.io), based on the official [postgres image](https://hub.docker.com/_/postgres/).
 
-This image is essentially the same as the `postgres` image, but with the `bedquilt` extension pre-installed on the default template, and an empty `docker` database and user ready to go.For full documentation of options available, see the [postgres image](https://hub.docker.com/_/postgres/) page.
+This image is essentially the same as the `postgres` image, but with the `bedquilt` extension pre-installed on the default template, and an empty `docker` database and user ready to go. For full documentation of options available, see the [postgres image](https://hub.docker.com/_/postgres/) page, in fact, you should read and understand that page before using this image in production.
+
 
 Github: https://github.com/BedquiltDB/docker-bedquilt
 
