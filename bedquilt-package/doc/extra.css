@@ -1,0 +1,8 @@
+h2, h3, h4, h5 {
+  margin-top: 1.4em;
+}
+
+img {
+  max-width: 640px;
+  border: 1px solid #ddd;
+}
