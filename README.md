@@ -1,6 +1,6 @@
 # docker-bedquiltdb
 
-A Docker image for [BedquiltDB](https://bedquiltdb.github.io)
+A Docker image for [BedquiltDB](https://bedquiltdb.github.io), based on the official [postgres image](https://hub.docker.com/_/postgres/).
 
 ## Build
 
